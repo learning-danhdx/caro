@@ -1,0 +1,7 @@
+D:\Documents\Caro2\Caro2\bin\Debug\Caro2.exe.config
+D:\Documents\Caro2\Caro2\bin\Debug\Caro2.exe
+D:\Documents\Caro2\Caro2\bin\Debug\Caro2.pdb
+D:\Documents\Caro2\Caro2\obj\Debug\Caro2.csproj.AssemblyReference.cache
+D:\Documents\Caro2\Caro2\obj\Debug\Caro2.csproj.CoreCompileInputs.cache
+D:\Documents\Caro2\Caro2\obj\Debug\Caro2.exe
+D:\Documents\Caro2\Caro2\obj\Debug\Caro2.pdb
